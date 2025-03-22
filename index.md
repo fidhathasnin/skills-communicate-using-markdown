@@ -21,4 +21,22 @@ Cybersecurity refers to the practice of protecting systems, networks, and progra
 ##### Cybersecurity Best Practices
 - Use strong, unique passwords  
 - Enable multi-factor authentication (MFA)  
-- Regularly update software and systems  
+- Regularly update software and systems
+
+
+### Password Strength Checker (Python)
+
+```python
+def check_password_strength(password):
+    if len(password) < 8:
+        return "Weak: Password too short."
+    elif not any(char.isdigit() for char in password):
+        return "Weak: Add at least one number."
+    elif not any(char.isupper() for char in password):
+        return "Weak: Add at least one uppercase letter."
+    else:
+        return "Strong Password!"
+
+password = input("Enter your password: ")
+print(check_password_strength(password))
+
