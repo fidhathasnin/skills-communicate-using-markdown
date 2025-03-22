@@ -5,7 +5,13 @@ Cybersecurity refers to the practice of protecting systems, networks, and progra
 ### Importance of Cybersecurity
 - Protects sensitive data  
 - Prevents unauthorized access  
-- Safeguards digital infrastructure  
+- Safeguards digital infrastructure
+### Cyber Attack Illustration
+
+![Cyber Attack - A conceptual illustration depicting a digital cyber attack](https://github.com/fidhathasnin/skills-communicate-using-markdown/blob/main/3845387.jpg?raw=true)
+
+
+
 
 #### Common Cyber Threats
 1. Malware (Viruses, Worms, Ransomware)  
