@@ -9,10 +9,6 @@ Cybersecurity refers to the practice of protecting systems, networks, and progra
 ### Cyber Attack Illustration
 
 ![Cyber Attack - A conceptual illustration depicting a digital cyber attack](https://github.com/fidhathasnin/skills-communicate-using-markdown/blob/main/3845387.jpg?raw=true)
-
-
-
-
 #### Common Cyber Threats
 1. Malware (Viruses, Worms, Ransomware)  
 2. Phishing Attacks  
@@ -40,3 +36,14 @@ def check_password_strength(password):
 password = input("Enter your password: ")
 print(check_password_strength(password))
 
+
+
+
+### 🛡️ Cybersecurity Task List
+
+- [ ] Enable multi-factor authentication (MFA)
+- [ ] Conduct vulnerability scans
+- [ ] Set up a firewall for network security
+- [ ] Perform regular data backups
+- [ ] Monitor for suspicious activity
+- [ ] Update security patches regularly
